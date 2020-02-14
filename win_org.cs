@@ -18,7 +18,7 @@ namespace dot_windows
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             MessageBox.Show("the program started");
-            Application.Run(new Form1());
+            Application.Run(new frm_counter());
         
         }
     }
