@@ -16,6 +16,7 @@ namespace dot_windows
         {
             InitializeComponent();
             MessageBox.Show("the Form1 is now initialized");
+            MessageBox.Show("I am not sure it will be the case");
         }
 
     }
